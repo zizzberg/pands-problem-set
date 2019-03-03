@@ -6,4 +6,4 @@
 
 z = int(input("Input a number: "))
 sum = (z * (z + 1)) / 2
-  print ("you answer is: ",sum)
+print ("you answer is: ",sum)
