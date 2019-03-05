@@ -4,9 +4,9 @@ import datetime
 
 dayis = datetime.datetime.today().weekday()
 
-if dayis == 1, 3: 
-    print "Today begins with a T, Taco Tuesday or Terrific Thursday"
+if dayis == 1 or 3: 
+    print ("Yay! Today starts with a T")
 
 else: 
 
-    print "Today doesn't being with a T"
+    print ("Today doesn't being with a T")
