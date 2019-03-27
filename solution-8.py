@@ -7,8 +7,8 @@
 
 #alt 
 import datetime
-now = datetime.datetime.today() # current date and time - incorrect time
+#now = datetime.datetime.today() # current date and time - incorrect time
 x = datetime.datetime.now()
 
 
-print(x.strftime("%A %B %d %Y at %H %I %p"))
+print(x.strftime("%A %B %d %Y at %H %I %p")) 
